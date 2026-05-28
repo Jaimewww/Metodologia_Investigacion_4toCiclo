@@ -1,0 +1,654 @@
+@article{armas2025bayes,
+  author    = {Armas Ordo\~nez, Miguel Alejandro},
+  title     = {Modelado probabil\'istico estructurado en la inform\'atica m\'edica e ingenier\'ia cl\'inica},
+  journal   = {IEEE Transactions on Artificial Intelligence},
+  year      = {2025},
+  volume    = {6},
+  number    = {2},
+  pages     = {112--125}
+}
+
+@book{chamba2026metodologia,
+  author    = {Chamba-Eras, Luis},
+  title     = {Metodolog\'ia de la Investigaci\'on en Computaci\'on: Una Gu\'ia para el Dise\~no de Sistemas Inteligentes},
+  publisher = {Editorial Universidad Nacional de Loja},
+  year      = {2026},
+  address   = {Loja, Ecuador}
+}
+
+
+@inproceedings{Samal2020,
+   author = {Sonali Samal and Shubhendu Kumar Sarangi and Archana Sarangi},
+   city = {Bhubaneswar},
+   doi = {10.1109/CISPSSE49931.2020.9212193},
+   isbn = {978-1-7281-7274-3},
+   booktitle = {2020 International Conference on Computational Intelligence for Smart Power System and Sustainable Energy (CISPSSE)},
+   month = {7},
+   pages = {1--5},
+   publisher = {IEEE},
+   title = {Analysis of Adaptive Mutation in Crazy Particle Swarm Optimization},
+   url = {https://ieeexplore.ieee.org/document/9212193/},
+   year = {2020}
+}
+
+@inproceedings{Katarya2021,
+   author = {Rahul Katarya and Utkarsh Agrawal and Vasudha Rohatgi},
+   city = {New Delhi},
+   doi = {10.1109/ICAC3N53548.2021.9725575},
+   isbn = {9781665438117},
+   booktitle = {Proceedings -- 2021 3rd International Conference on Advances in Computing, Communication Control and Networking, ICAC3N 2021},
+   keywords = {Engineering Problems,Grey Wolf Optimizer,Opposition-based learning,Particle Swarm Optimization},
+   month = {12},
+   pages = {861--867},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {Optimizing Constrained Engineering Problems using Opposition based Swarm Algorithms},
+   year = {2021}
+}
+
+% Tiwari2023: articulo principal de BBOA
+@article{Tiwari2023,
+   author = {Anurag Tiwari},
+   doi = {10.1109/ACCESS.2023.3274469},
+   issn = {21693536},
+   journal = {IEEE Access},
+   keywords = {Butterfly optimization algorithm,classification accuracy,feature selection},
+   month = {5},
+   pages = {93511--93537},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {A Hybrid Feature Selection Method Using an Improved Binary Butterfly Optimization Algorithm and Adaptive {$\beta$}-Hill Climbing},
+   volume = {11},
+   year = {2023}
+}
+
+@article{Wang2024,
+   author = {Zhi Wang and Yayun Li and Lei Wu and Qiang Guo},
+   doi = {10.1109/ACCESS.2024.3350336},
+   issn = {21693536},
+   journal = {IEEE Access},
+   keywords = {Whale optimization algorithm,adaptive weight,engineering design,swarm intelligence},
+   month = {1},
+   pages = {40225--40254},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {A Nonlinear Adaptive Weight-Based Mutated Whale Optimization Algorithm and Its Application for Solving Engineering Problems},
+   volume = {12},
+   year = {2024}
+}
+
+@article{Duan2022,
+   author = {Shaomi Duan and Huilong Luo and Haipeng Liu},
+   doi = {10.1109/ACCESS.2022.3141908},
+   issn = {21693536},
+   journal = {IEEE Access},
+   keywords = {Constrained engineering optimization problems,Seeker optimization algorithm},
+   month = {1},
+   pages = {7165--7195},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {A Multi-Strategy Seeker Optimization Algorithm for Optimization Constrained Engineering Problems},
+   volume = {10},
+   year = {2022}
+}
+
+@article{Cheng2025,
+   author = {Zixiang Cheng and Changfei Zhuo and Qing Zhu},
+   doi = {10.1088/1742-6596/3126/1/012064},
+   issn = {17426596},
+   issue = {1},
+   journal = {Journal of Physics: Conference Series},
+   month = {10},
+   pages = {012064},
+   publisher = {Institute of Physics},
+   title = {Attitude Control for Hovering Rocket Decoy Based on {PSO}-Optimized Sliding Mode Controller},
+   volume = {3126},
+   year = {2025}
+}
+
+@article{Sadi2026,
+   author = {Mustapha Amine Sadi and Annisa Jamali and M. A. Zulkifli and M. N. Leman and S. Mohamaddan and H. Hazmi},
+   doi = {10.1155/abb/8945626},
+   issn = {1176-2322},
+   issue = {1},
+   journal = {Applied Bionics and Biomechanics},
+   month = {1},
+   pages = {8945626},
+   title = {Enhanced Control Strategies for Lower Limb Rehabilitation Robots: A Comparative Study of {MRAC}, {PID-ZN}, and {MRAC-PSO} Controllers},
+   volume = {2026},
+   url = {https://onlinelibrary.wiley.com/doi/10.1155/abb/8945626},
+   year = {2026}
+}
+
+@article{Vrabel2025,
+   author = {Robert Vrabel},
+   doi = {10.3390/automation6040089},
+   issn = {26734052},
+   issue = {4},
+   journal = {Automation},
+   keywords = {PID tuning,hybrid algorithms,metaheuristic optimization,nonlinear control},
+   month = {12},
+   pages = {89},
+   publisher = {Multidisciplinary Digital Publishing Institute (MDPI)},
+   title = {Hybrid Particle Swarm and Grey Wolf Optimization for Robust Feedback Control of Nonlinear Systems},
+   volume = {6},
+   year = {2025}
+}
+
+@article{Abualigah2025,
+   author = {Laith Abualigah},
+   doi = {10.32604/cmc.2025.060765},
+   issn = {15462226},
+   issue = {2},
+   journal = {Computers, Materials and Continua},
+   keywords = {Particle swarm optimization (PSO),data mining,energy systems,engineering design},
+   month = {2},
+   pages = {1539--1592},
+   publisher = {Tech Science Press},
+   title = {Particle Swarm Optimization: Advances, Applications, and Experimental Insights},
+   volume = {82},
+   year = {2025}
+}
+
+% Zhang2015: journal corregido (era erroneamente Journal of Petroleum Exploration)
+@article{Zhang2015,
+   author = {Yudong Zhang and Shuihua Wang and Genlin Ji},
+   doi = {10.1155/2015/931256},
+   issn = {1024-123X},
+   journal = {Mathematical Problems in Engineering},
+   month = {1},
+   pages = {931256},
+   publisher = {Hindawi Limited},
+   title = {A Comprehensive Survey on Particle Swarm Optimization Algorithm and Its Applications},
+   volume = {2015},
+   year = {2015}
+}
+
+% Castaneda2025: clave corregida (era Castaeda2025 sin la n)
+@article{Castaneda2025,
+   author = {Carlos Castañeda},
+   doi = {10.3390/robotics14090128},
+   journal = {Robotics},
+   month = {9},
+   pages = {128},
+   title = {{AI}-Based Optimization of a Neural Discrete-Time Sliding Mode Controller via Bayesian, Particle Swarm, and Genetic Algorithms},
+   volume = {14},
+   year = {2025}
+}
+
+% Nizar2026: DOI corregido (se eliminó el prefijo "DOI:" literal)
+@article{Nizar2026,
+   author = {Rokbani Nizar},
+   doi = {10.3390/robotics15030052},
+   journal = {Robotics},
+   month = {2},
+   pages = {52},
+   title = {Rough Sets Meta-Heuristic Schema for Inverse Kinematics and Path Planning of Surgical Robotic Arms},
+   volume = {15},
+   year = {2026}
+}
+
+@article{Karamolachab2026,
+   author = {Ali Karamolachab and Saman Abdanan Mehdizadeh and Yiannis Ampatzidis},
+   doi = {10.3390/agriculture16091004},
+   issn = {2077-0472},
+   issue = {9},
+   journal = {Agriculture},
+   month = {5},
+   pages = {1004},
+   title = {Design, Optimization, and Field Evaluation of an Automatic Steering System for Agricultural Tractors Using Metaheuristic {PID} Tuning},
+   volume = {16},
+   url = {https://www.mdpi.com/2077-0472/16/9/1004},
+   year = {2026}
+}
+
+@article{Gonabadi2025,
+   author = {Mohammadzadeh Gonabadi and Nathaniel H. Hunt and Farahnaz Fallahtafti},
+   doi = {10.3390/jsan14060113},
+   issn = {22242708},
+   issue = {6},
+   journal = {Journal of Sensor and Actuator Networks},
+   keywords = {electromyography,exoskeleton,human-in-the-loop optimization,surrogate models},
+   month = {12},
+   pages = {113},
+   publisher = {Multidisciplinary Digital Publishing Institute (MDPI)},
+   title = {{EMG}-Based Simulation for Optimization of Human-in-the-Loop Control in Simple Robotic Walking Assistance},
+   volume = {14},
+   year = {2025}
+}
+
+% CebrailTurkeri2025: autor corregido (and extra eliminado), titulo limpio
+@article{CebrailTurkeri2025,
+   author = {Cebrail Turkeri and Serdar Ekinci and Gokhan Yuksek and Dacheng Li},
+   doi = {10.3390/fractalfract9120811},
+   journal = {Fractal and Fractional},
+   month = {12},
+   pages = {811},
+   title = {A Modified Enzyme Action Optimizer-Based {FOPID} Controller for Temperature Regulation of a Nonlinear Continuous Stirred Tank Reactor},
+   volume = {9},
+   url = {https://www.proquest.com/scholarly-journals/modified-enzyme-action-optimizer-based-fopid/docview/3286294597/se-2},
+   year = {2025}
+}
+
+% Baghdadi2025: titulo y paginas corregidas
+@article{Baghdadi2025,
+   author = {Abtin Baghdadi and Harald Kloft},
+   doi = {10.3390/buildings15091565},
+   journal = {Buildings},
+   month = {5},
+   pages = {1565},
+   title = {Machine-Learning-Driven Approaches for Assessment, Delegation, and Optimization of Multi-Floor Building Structures},
+   volume = {15},
+   url = {https://www.proquest.com/scholarly-journals/machine-learning-driven-approaches-assessment/docview/3203189815/se-2},
+   year = {2025}
+}
+
+% MultiFloor2025: alias de Baghdadi2025, usado en texto
+@article{MultiFloor2025,
+   author = {Abtin Baghdadi and Harald Kloft},
+   doi = {10.3390/buildings15091565},
+   journal = {Buildings},
+   month = {5},
+   pages = {1565},
+   title = {Machine-Learning-Driven Approaches for Assessment, Delegation, and Optimization of Multi-Floor Building Structures},
+   volume = {15},
+   year = {2025}
+}
+
+@article{Zhao2025,
+   author = {Xudong Zhao and Qingfen Ma and Jingru Li and Zhongye Wu and Hui Lu and Yang Xiong},
+   doi = {10.3390/jmse13050873},
+   issn = {2077-1312},
+   journal = {Journal of Marine Science and Engineering},
+   month = {4},
+   pages = {873},
+   title = {Optimization Design of Lazy-Wave Dynamic Cable Configuration Based on Machine Learning},
+   volume = {13},
+   url = {https://www.mdpi.com/2077-1312/13/5/873},
+   year = {2025}
+}
+
+% Ebadi2025: clave corregida (era Ebadi2026 aunque el articulo es de 2025)
+@article{Ebadi2025,
+   author = {Seyed Mahan Ebadi and Ehsan Khamehchi and Javad Mahdavi Kalatehno},
+   doi = {10.1007/s13202-025-02109-1},
+   issn = {21900566},
+   journal = {Journal of Petroleum Exploration and Production Technology},
+   keywords = {Extra-Trees,Genetic algorithm (GA),Matrix acidizing,Particle swarm optimization (PSO)},
+   month = {3},
+   pages = {1--19},
+   publisher = {Springer Science and Business Media Deutschland GmbH},
+   title = {A Comprehensive Comparative Analysis of Particle Swarm Optimization and Genetic Algorithms in Well Acidizing Optimization},
+   volume = {15},
+   year = {2025}
+}
+
+% EnhancedCNN2024: articulo de CNN+suelo (antes Yasir2025 con titulo "Enhanced Reader")
+@article{EnhancedCNN2024,
+   author = {Noor Yasir and Fawziya Mahmood and Mahmood Siddeeq and Muna Jaffer},
+   doi = {10.48550/arXiv.2508.16660},
+   institution = {University of Mosul},
+   month = {8},
+   title = {Enhanced {CNN} Hyperparameter Tuning via Swarm Intelligence for Soil Type Classification},
+   year = {2025}
+}
+
+% Sanchez2025: clave corregida (era Snchez2025), titulo limpio
+@article{Sanchez2025,
+   author = {Maibeth Sánchez and Manuel Duarte and Lisbel Bárzaga and Marcos Orchard and Gustavo Ceballos},
+   doi = {10.3390/fractalfract9080485},
+   journal = {Fractal and Fractional},
+   month = {7},
+   pages = {485},
+   title = {Fractional Gradient-Based Model Reference Adaptive Control Applied on an Inverted Pendulum-Cart System},
+   volume = {9},
+   year = {2025}
+}
+
+@article{Shami2022,
+   author = {Tareq M. Shami and Ayman A. El-Saleh and Mohammed Alswaitti and Qasem Al-Tashi and Mhd Amen Summakieh and Seyedali Mirjalili},
+   doi = {10.1109/ACCESS.2022.3142859},
+   issn = {21693536},
+   journal = {IEEE Access},
+   keywords = {Particle swarm optimization,Topology,Feature extraction},
+   month = {1},
+   pages = {10031--10061},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {Particle Swarm Optimization: A Comprehensive Survey},
+   volume = {10},
+   year = {2022}
+}
+
+% Samal2020 ya definido arriba. Alias para tabla si se necesita referencia directa de Samal2020.
+
+
+
+
+
+@ARTICLE{Gandomi2013327,
+	author = {Gandomi, Amir Hossein and Yun, Gun Jin and Yang, Xin-She and Talatahari, Siamak},
+	title = {Chaos-enhanced accelerated particle swarm optimization},
+	year = {2013},
+	journal = {Communications in Nonlinear Science and Numerical Simulation},
+	volume = {18},
+	number = {2},
+	pages = {327 - 340},
+	doi = {10.1016/j.cnsns.2012.07.017},
+	url = {https://www.scopus.com/pages/publications/84866000386?origin=resultslist},
+	abstract = {There are more than two dozen variants of particle swarm optimization (PSO) algorithms in the literature. Recently, a new variant, called accelerated PSO (APSO), shows some extra advantages in convergence for global search. In the present study, we will introduce chaos into the APSO in order to further enhance its global search ability. Firstly, detailed studies are carried out on benchmark problems with twelve different chaotic maps to find out the most efficient one. Then the chaotic APSO (CAPSO) will be compared with some other chaotic PSO algorithms presented in the literature. The performance of the CAPSO algorithm is also validated using three engineering problems. The results show that the CAPSO with an appropriate chaotic map can clearly outperform standard APSO, with very good performance in comparison with other algorithms and in application to a complex problem. © 2012 Elsevier B.V.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 371}
+}
+
+
+@ARTICLE{Biswas2007255,
+	author = {Biswas, Arijit and Dasgupta, Sambarta and Das, Swagatam and Abraham, Ajith},
+	title = {Synergy of PSO and bacterial foraging optimization - A comparative study on numerical benchmarks},
+	year = {2007},
+	journal = {Advances in Soft Computing},
+	volume = {44},
+	pages = {255 - 263},
+	doi = {10.1007/978-3-540-74972-1_34},
+	url = {https://www.scopus.com/pages/publications/61449110863?origin=resultslist},
+	abstract = {Social foraging behavior of Escherichia coli bacteria has recently been explored to develop a novel algorithm for distributed optimization and control. The Bacterial Foraging Optimization Algorithm (BFOA), as it is called now, is currently gaining popularity in the community of researchers, for its effectiveness in solving certain difficult real-world optimization problems. Until now, very little research work has been undertaken to improve the convergence speed and accuracy of the basic BFOA over multi-modal fitness landscapes. This article comes up with a hybrid approach involving Particle Swarm Optimization (PSO) and BFOA algorithm for optimizing multi-modal and high dimensional functions. The proposed hybrid algorithm has been extensively compared with the original BFOA algorithm, the classical g_best PSO algorithm and a state of the art version of the PSO. The new method is shown to be statistically significantly better on a five-function test-bed and one difficult engineering optimization problem of spread spectrum radar poly-phase code design. © 2007 Springer-Verlag Berlin Heidelberg.},
+	type = {Conference paper},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 189}
+}
+
+@ARTICLE{Shafahi201352,
+	author = {Shafahi, Yousef and Bagherian, Mehdi},
+	title = {A Customized Particle Swarm Method to Solve Highway Alignment Optimization Problem},
+	year = {2013},
+	journal = {Computer-Aided Civil and Infrastructure Engineering},
+	volume = {28},
+	number = {1},
+	pages = {52 - 67},
+	doi = {10.1111/j.1467-8667.2012.00769.x},
+	url = {https://www.scopus.com/pages/publications/84871011304?origin=resultslist},
+	abstract = {Optimizing highway alignment requires a versatile set of cost functions and an efficient search method to achieve the best design. Because of numerous highway design considerations, this issue is classified as a constrained problem. Moreover, because of the infinite number of possible solutions for the problem and the continuous search space, highway alignment optimization is a complex problem. In this study, a customized particle swarm optimization algorithm was used to search for a near-optimal highway alignment, which is a compound of several tangents, consisting of circular (for horizontal design) and parabolic (for vertical alignment) curves. The selected highway alignment should meet the constraints of highway design while minimizing total cost as the objective function. The model uses geographical information system (GIS) maps as an efficient and fast way to calculate right-of-way costs, earthwork costs, and any other spatial information and constraints that should be implemented in the design process. The efficiency of the algorithm was verified through a case study using an artificial map as the study region. Finally, we applied the algorithm to a real-world example and the results were compared with the alignment found by traditional methods. © 2012 Computer-Aided Civil and Infrastructure Engineering.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 165}
+}
+
+@ARTICLE{Gálvez2012174,
+	author = {Gálvez, Akemi and Iglesias, Andrés},
+	title = {Particle swarm optimization for non-uniform rational B-spline surface reconstruction from clouds of 3D data points},
+	year = {2012},
+	journal = {Information Sciences},
+	volume = {192},
+	pages = {174 - 192},
+	doi = {10.1016/j.ins.2010.11.007},
+	url = {https://www.scopus.com/pages/publications/84857864608?origin=resultslist},
+	abstract = {This work investigates the use of particle swarm optimization (PSO) to recover the shape of a surface from clouds of (either organized or scattered) noisy 3D data points, a challenging problem that appears recurrently in a wide range of applications such as CAD design, data visualization, virtual reality, medical imaging and movie industries. In this paper, we apply a PSO approach in order to reconstruct a non-uniform rational B-spline (NURBS) surface of a certain order from a given set of 3D data points. In this case, surface reconstruction consists of two main tasks: (1) surface parameterization and (2) surface fitting. Both tasks are critical but also troublesome, leading to a high-dimensional non-linear optimization problem. Our method allows us to obtain all relevant surface data (i.e., parametric values of data points, knot vectors, control points and their weights) in a shot and no pre-/post-processing is required. Furthermore, it yields very good results even in presence of problematic features, such as multi-branches, high-genus or self-intersections. Seven examples including open, semiclosed, closed, zero-genus, high-genus surfaces and real-world scanned objects, described in free-form, parametric and implicit forms illustrate the good performance of our approach and its superiority over previous approaches in terms of accuracy and generality. © 2010 Elsevier Inc. All rights reserved.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 159}
+}
+
+@ARTICLE{Zhang2021,
+	author = {Zhang, Wencan and Liang, Zhicheng and Wu, Weixiong and Ling, Guozhi and Ma, Ruixin},
+	title = {Design and optimization of a hybrid battery thermal management system for electric vehicle based on surrogate model},
+	year = {2021},
+	journal = {International Journal of Heat and Mass Transfer},
+	volume = {174},
+	pages = {},
+	doi = {10.1016/j.ijheatmasstransfer.2021.121318},
+	url = {https://www.scopus.com/pages/publications/85104405939?origin=resultslist},
+	abstract = {The hybrid thermal management scheme for lithium-ion battery combining the advantages of various thermal management strategies has been widely adopted. However, due to the complex influence parameters involved in the hybrid thermal management system, its optimal design has become a difficult problem. In this study, a hybrid thermal management system based on phase change material (PCM), liquid cooling, and heat pipe is first designed, and then a precise and reliable numerical heat transfer model is established. In order to optimize the system and improve the optimization efficiency, the Adaptive-Kriging-High dimensional model representation (HDMR) method is used to construct a surrogate model of the thermal management system, and the influencing factors sensitivity analysis and optimization design of the hybrid thermal management system are also conducted. The results show that the thermal conductivity of PCM, the thickness of PCM, the length of heat pipe and the velocity of inlet water have a significant influence on the maximum temperature and temperature difference of the battery system. According to the optimization design of these four factors based on the multi-objective particle swarm optimization (MOPSO), it is found that the optimized thermal management system has the best ability to dissipate heat and maintain temperature uniformity as compared to the original design. In addition, this optimization system has the ability to prevent thermal runaway propagation under the condition of thermal abuse conditions. With these prominent performances, the proposed method is expected to provide insights into the engineering design and optimization of the battery thermal management system for electric vehicle. © 2021},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 158}
+}
+
+@ARTICLE{Shami20239193,
+	author = {Shami, Tareq M. and Mirjalili, Seyedali and Al-Eryani, Yasser and Daoudi, Khadija and Izadi, Saadat and Abualigah, Laith},
+	title = {Velocity pausing particle swarm optimization: a novel variant for global optimization},
+	year = {2023},
+	journal = {Neural Computing and Applications},
+	volume = {35},
+	number = {12},
+	pages = {9193 - 9223},
+	doi = {10.1007/s00521-022-08179-0},
+	url = {https://www.scopus.com/pages/publications/85145706717?origin=resultslist},
+	abstract = {Particle swarm optimization (PSO) is one of the most well-regard metaheuristics with remarkable performance when solving diverse optimization problems. However, PSO faces two main problems that degrade its performance: slow convergence and local optima entrapment. In addition, the performance of this algorithm substantially degrades on high-dimensional problems. In the classical PSO, particles can move in each iteration with either slower or faster speed. This work proposes a novel idea called velocity pausing where particles in the proposed velocity pausing PSO (VPPSO) variant are supported by a third movement option that allows them to move with the same velocity as they did in the previous iteration. As a result, VPPSO has a higher potential to balance exploration and exploitation. To avoid the PSO premature convergence, VPPSO modifies the first term of the PSO velocity equation. In addition, the population of VPPSO is divided into two swarms to maintain diversity. The performance of VPPSO is validated on forty three benchmark functions and four real-world engineering problems. According to the Wilcoxon rank-sum and Friedman tests, VPPSO can significantly outperform seven prominent algorithms on most of the tested functions on both low- and high-dimensional cases. Due to its superior performance in solving complex high-dimensional problems, VPPSO can be applied to solve diverse real-world optimization problems. Moreover, the velocity pausing concept can be easily integrated with new or existing metaheuristic algorithms to enhance their performances. The Matlab code of VPPSO is available at: https://uk.mathworks.com/matlabcentral/fileexchange/119633-vppso. © 2023, The Author(s).},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 138; All Open Access; Green Open Access; Hybrid Gold Open Access}
+}
+
+@ARTICLE{Zhu2022,
+	author = {Zhu, Shun-Peng and Keshtegar, Behrooz and Ben Seghier, Mohamed El Amine and Zio, Enrico and Taylan, Osman},
+	title = {Hybrid and enhanced PSO: Novel first order reliability method-based hybrid intelligent approaches},
+	year = {2022},
+	journal = {Computer Methods in Applied Mechanics and Engineering},
+	volume = {393},
+	pages = {},
+	doi = {10.1016/j.cma.2022.114730},
+	url = {https://www.scopus.com/pages/publications/85125233165?origin=resultslist},
+	abstract = {Computing the sensitivity vector in the traditional first order reliability method may provide inaccurate reliability outcomes for discrete performance functions and inefficient computation burden for high-dimensional problems. In this study, two improved particle swarm optimization algorithms are proposed to enhance the convergence rate with global optimal results during the structural reliability analysis. The abilities for convergence speed and global convergence of the particle swarm optimization algorithm are improved using a novel hybrid method called particle swarm optimization-based harmony search algorithm (PSO–HS), and enhanced particle swarm optimization (EPSO). The proposed methods use a dynamic self-adaptive term to execute the local adjusting process. Using twelve numerical-based engineering problems, the structural reliability frameworks developed based on modified versions of particle swarm optimization algorithms are compared to numerous FORM algorithms and the current metaheuristic methods. Results indicated that the novel proposed methods using the improved PSO algorithms are more robust and efficient than the analytical FORM methods for solving high-dimensional engineering problems. Furthermore, compared to the previous metaheuristic approaches, the suggested methods enabled faster convergence. © 2022 Elsevier B.V.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 121}
+}
+
+@ARTICLE{Chowdhury2013367,
+	author = {Chowdhury, Souma and Tong, Weiyang and Messac, Achille and Zhang, Jie},
+	title = {A mixed-discrete Particle Swarm Optimization algorithm with explicit diversity-preservation},
+	year = {2013},
+	journal = {Structural and Multidisciplinary Optimization},
+	volume = {47},
+	number = {3},
+	pages = {367 - 388},
+	doi = {10.1007/s00158-012-0851-z},
+	url = {https://www.scopus.com/pages/publications/84880569625?origin=resultslist},
+	abstract = {Engineering design problems often involve non-linear criterion functions, including inequality and equality constraints, and a mixture of discrete and continuous design variables. Optimization approaches entail substantial challenges when solving such an all-inclusive design problem. In this paper, a modification of the Particle Swarm Optimization (PSO) algorithm is presented, which can adequately address system constraints while dealing with mixed-discrete variables. Continuous search (particle motion), as in conventional PSO, is implemented as the primary search strategy; subsequently, the discrete variables are updated using a deterministic nearest-feasible-vertex criterion. This approach is expected to alleviate the undesirable difference in the rates of evolution of discrete and continuous variables. The premature stagnation of candidate solutions (particles) due to loss of diversity is known to be one of the primary drawbacks of the basic PSO dynamics. To address this issue in high dimensional design problems, a new adaptive diversity-preservation technique is developed. This technique characterizes the population diversity at each iteration. The estimated diversity measure is then used to apply (i) a dynamic repulsion away from the best global solution in the case of continuous variables, and (ii) a stochastic update of the discrete variables. For performance validation, the Mixed-Discrete PSO algorithm is applied to a wide variety of standard test problems: (i) a set of 9 unconstrained problems, and (ii) a comprehensive set of 98 Mixed-Integer Nonlinear Programming (MINLP) problems. We also explore the applicability of this algorithm to a large scale engineering design problem - -wind farm layout optimization. © 2012 Springer-Verlag Berlin Heidelberg.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 114}
+}
+
+@ARTICLE{MohdZain2018680,
+	author = {Mohd Zain, Mohamad Zihin bin and Kanesan, Jeevan and Chuah, Joon Huang and Dhanapal, Saroja and Kendall, Graham},
+	title = {A multi-objective particle swarm optimization algorithm based on dynamic boundary search for constrained optimization},
+	year = {2018},
+	journal = {Applied Soft Computing Journal},
+	volume = {70},
+	pages = {680 - 700},
+	doi = {10.1016/j.asoc.2018.06.022},
+	url = {https://www.scopus.com/pages/publications/85048989639?origin=resultslist},
+	abstract = {Due to increased search complexity in multi-objective optimization, premature convergence becomes a problem. Complex engineering problems poses high number of variables with many constraints. Hence, more difficult benchmark problems must be utilized to validate new algorithms performance. A well-known optimizer, Multi-Objective Particle Swarm Optimizer (MOPSO), has a few weakness that needs to be addressed, specifically its convergence in high dimensional problems and its constraints handling capability. For these reasons, we propose a modified MOPSO (M-MOPSO) to improve upon these aspects. M-MOPSO is compared with four other algorithms namely, MOPSO, Multi-Objective Grey Wolf Optimizer (MOGWO), Multi-Objective Evolutionary Algorithm based on Decompositions (MOEA/D) and Multi-Objective Differential Evolution (MODE). M-MOPSO emerged as the best algorithm in eight out of the ten constrained benchmark problems. It also shows promising results in bioprocess application problems and tumor treatment problems. In overall, M-MOPSO was able to solve multi-objective problems with good convergence and is suitable to be used in real world problem. © 2018 Elsevier B.V.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 109; All Open Access; Green Open Access}
+}
+
+@ARTICLE{Kassabalidis2002723,
+	author = {Kassabalidis, Ioannis N. and El-Sharkawi, Mohamed A. and Marks II, Robert J. and Moulin, Luciano S. and Da Silva, Alexandre P. Alves},
+	title = {Dynamic security border identification using enhanced particle swarm optimization},
+	year = {2002},
+	journal = {IEEE Transactions on Power Systems},
+	volume = {17},
+	number = {3},
+	pages = {723 - 729},
+	doi = {10.1109/TPWRS.2002.800942},
+	url = {https://www.scopus.com/pages/publications/0036699876?origin=resultslist},
+	abstract = {The ongoing deregulation of the energy market increases the need to operate modern power systems close to the security border. This requires enhanced methods for the vulnerability border tracking. The high-dimensional nature of power systems' operating space makes this difficult. However, new multiagent search techniques such as particle swarm optimization have shown great promise in handling high-dimensional nonlinear problems. This paper investigates the use of a new variation of particle swarm optimization to identify points on the security border of the power system, thereby identifying a vulnerability margin metric for the operating point.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 101}
+}
+
+@ARTICLE{Cui200898,
+	author = {Cui, Zhihua and Cai, Xingjuan and Zeng, Jianchao and Sun, Guoji},
+	title = {Particle swarm optimization with FUSS and RWS for high dimensional functions},
+	year = {2008},
+	journal = {Applied Mathematics and Computation},
+	volume = {205},
+	number = {1},
+	pages = {98 - 108},
+	doi = {10.1016/j.amc.2008.05.147},
+	url = {https://www.scopus.com/pages/publications/54049084147?origin=resultslist},
+	abstract = {High dimensional optimization problems play an important role in many complex engineering area. Though many variants of particle swarm optimization (PSO) have been proposed, however, most of them are tested and compared with dimension no larger than 300. Since numerical problem with high-dimension maintains a large linkage and correlation among different variables, and the number of local optimum increases significantly with different dimensions, this paper proposes a novel variant of PSO aiming to provide a balance between exploration and exploitation capability. Firstly, the fitness uniform selection strategy (FUSS) with a weak selection pressure is incorporated into the standard PSO. Secondly, "random walk strategy" (RWS) with four different form, is designed to further enhance the exploration capability to escaping from a local optimum. Finally, the proposed PSO combined with FUSS and RWS is applied to seven famous high dimensional benchmark with the dimension up to 3000. Simulation results demonstrate good performance of the new method in solving high dimensional multi-modal problems when compared with two other variants of the PSO. © 2008 Elsevier Inc. All rights reserved.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 51}
+}
+
+@ARTICLE{Huang2007568,
+	author = {Huang, Tony and Sanagavarapu Mohan, Ananda},
+	title = {A microparticle swarm optimizer for the reconstruction of microwave images},
+	year = {2007},
+	journal = {IEEE Transactions on Antennas and Propagation},
+	volume = {55},
+	number = {3 I},
+	pages = {568 - 576},
+	doi = {10.1109/TAP.2007.891545},
+	url = {https://www.scopus.com/pages/publications/34047204586?origin=resultslist},
+	abstract = {A novel optimization technique known as the microparticle swarm optimizer (μPSO) is proposed for high-dimensional microwave image reconstruction. With the proposed μPSO, good optimization performance can be obtained especially for solving high-dimensional optimization problems. In addition, the proposed μPSO requires only a small population size to outperform the standard PSO that uses a larger population size. Our simulation results on the reconstruction of the dielectric properties of normal and malignant breast tissues have shown that the μPSO can perform quite well for this high-dimensional microwave image reconstruction problem. © 2007 IEEE.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 51}
+}
+
+@ARTICLE{Xia2020,
+	author = {Xia, Zhiyuan and Li, Aiqun and Li, Jianhui and Shi, Huiyuan and Duan, Maojun and Zhou, Guangpan},
+	title = {Model updating of an existing bridge with high-dimensional variables using modified particle swarm optimization and ambient excitation data},
+	year = {2020},
+	journal = {Measurement: Journal of the International Measurement Confederation},
+	volume = {159},
+	pages = {},
+	doi = {10.1016/j.measurement.2020.107754},
+	url = {https://www.scopus.com/pages/publications/85082168705?origin=resultslist},
+	abstract = {Model updating for bridge engineering structures to obtain precise finite element model is an efficient tool at present. But with the dimension of the potential parameters during optimization increasing, it brings a challenge to present optimization methods. To improve the performance of convergence process and the probability of detecting global extremum, a combination model updating method of modified particle swarm optimization (MPSO) and response surface method was proposed herein. MPSO has less modification to PSO as only modifying the particle position with Gaussian white noise at a probability and the performance was significantly superior than PSO illustrated by testing functions. A beam model updating example based on the proposed method was tested, the convergence ability and accuracy were compared with genetic algorithm which is widely applied in bridge model updating. Finally, the proposed method was successfully applied to model updating of an existing bridge engineering structures with thirteen variables. © 2020 Elsevier Ltd},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 49}
+}
+
+@ARTICLE{Fan2014829,
+	author = {Fan, Jianchao and Wang, Jun and Han, Min},
+	title = {Cooperative coevolution for large-scale optimization based on kernel fuzzy clustering and variable trust region methods},
+	year = {2014},
+	journal = {IEEE Transactions on Fuzzy Systems},
+	volume = {22},
+	number = {4},
+	pages = {829 - 839},
+	doi = {10.1109/TFUZZ.2013.2276863},
+	url = {https://www.scopus.com/pages/publications/84905572315?origin=resultslist},
+	abstract = {Large-scale optimization arises in a variety of scientific and engineering applications. In this paper, a particle swarm optimization (PSO) approach with dynamic neighborhood that is based on kernel fuzzy clustering and variable trust region methods (called FT-DNPSO) is proposed for large-scale optimization. The cooperative coevolution incorporated with a kernel fuzzy C-means clustering strategy is introduced to divide high-dimensional problems in to subproblems, and explore their search spaces. Furthermore, the independent variable ranges change adaptably by using the variable trust region learning method, which expedites the convergence process and explores in the effective space. In addition, the dynamic neighborhood topology assists the PSO algorithm in cooperating with neighbor particles and avoids the problem of premature convergence. Simulation results substantiate the effectiveness of the proposed algorithm to solve large-scale optimization problems with many well-known benchmark functions. © 1993-2012 IEEE.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 46}
+}
+
+@ARTICLE{Yao2015513,
+	author = {Yao, Shuanbao and Guo, Dilong and Sun, Zhenxu and Yang, Guowei},
+	title = {A modified multi-objective sorting particle swarm optimization and its application to the design of the nose shape of a high-speed train},
+	year = {2015},
+	journal = {Engineering Applications of Computational Fluid Mechanics},
+	volume = {9},
+	number = {1},
+	pages = {513 - 527},
+	doi = {10.1080/19942060.2015.1061557},
+	url = {https://www.scopus.com/pages/publications/84961328852?origin=resultslist},
+	abstract = {Based on the concepts of niche count and crowding distance, a modified multi-objective particle swarm optimization (MPSO) is introduced. The niche count and crowding distance are used to determine the globally best particle across four test cases using an external file. A comparative analysis was carried out between MPSO and non-dominated sorting multiobjective adaptive genetic algorithms, both real-coded and binary-coded. The results show that MPSO based on the crowding distance is best for getting the Pareto front, especially for problems with high-dimensional and non-continuous Pareto fronts. In order to verify the efficiency of MPSO in solving engineering problems, the optimal design of the aerodynamic nose shape of high-speed trains was undertaken using a modified vehicle modeling function (MVMF) parametric method. Taking the aerodynamic drag of the whole train (Cd) and the aerodynamic lift of the trailer car (Cl) as the optimization goals, the Kriging surrogate model was introduced to reduce the computational time, and the MPSO based on crowding distance was used to find the Pareto front. The optimization results show that MPSO is efficient at getting the Pareto front; compared to the original shape, the Cd and Cl of the optimal shape are reduced by 1.6% and 29.74%, respectively. © 2015 The Author(s). Published by Taylor & Francis.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 43; All Open Access; Gold Open Access; Green Open Access}
+}
+
+@ARTICLE{Gopalakrishnan2010528,
+	author = {Gopalakrishnan, Kasthurirangan},
+	title = {Neural network-swarm intelligence hybrid nonlinear optimization algorithm for pavement moduli back-calculation},
+	year = {2010},
+	journal = {Journal of Transportation Engineering},
+	volume = {136},
+	number = {6},
+	pages = {528 - 536},
+	doi = {10.1061/(ASCE)TE.1943-5436.0000128},
+	url = {https://www.scopus.com/pages/publications/77955602655?origin=resultslist},
+	abstract = {This paper describes a novel hybrid intelligent system approach to inversion of nondestructive pavement deflection data and back-calculation of nonlinear stress-dependent pavement layer moduli. Particle swarm optimization (PSO), a population-based stochastic optimization technique inspired by social behavior of bird flocking or fish schooling, is fast emerging as an innovative and powerful computational metaphor for solving complex problems in design, optimization, control, management, business, and finance. Back-calculation of pavement layer moduli is an ill-posed inverse engineering problem which involves searching for the optimal combination of pavement layer stiffness solutions in an unsmooth, multimodal, complex search space. PSO is especially considered a robust and efficient approach for global optimization of multimodal functions. The hybrid back-calculation system described in this paper integrates finite element modeling, neural networks, and PSO in an efficient manner to mitigate the limitations and take advantages of the strengths to produce a system that is more effective and powerful than those which could be built with single technique. This is the first time the PSO approach is applied to real-time nondestructive evaluation of pavement systems. © 2010 ASCE.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 42}
+}
+
+
+@ARTICLE{Li20141,
+	author = {Li, Gang and Hu, Hao},
+	title = {Risk design optimization using many-objective evolutionary algorithm with application to performance-based wind engineering of tall buildings},
+	year = {2014},
+	journal = {Structural Safety},
+	volume = {48},
+	pages = {1 - 14},
+	doi = {10.1016/j.strusafe.2014.01.002},
+	url = {https://www.scopus.com/pages/publications/84894294846?origin=resultslist},
+	abstract = {Risk design optimization (RDO) is a competent approach for automated performance-based structural design by achieving a balance between safety and economy. Performance-based wind engineering (PBWE) is aimed at improving the life-cycle functionality of wind-sensitive structures, hence could be the very field RDO is tailor-made for. In this paper, we embed PBWE of tall buildings into RDO and tackle some difficulties when integrating them directly. We first formulate an integrated stiffness and vibration control RDO problem, and employ a frequency domain closed-form solution for uncertainty quantification and uncertainty propagation through the excitation-response-performance chain. Then we reveal the multi-objective optimization nature of RDO, and circumvent the difficulties in serviceability loss estimation by replacing scalar total cost with high-dimensional objective vector. Micro multi-objective particle swarm optimization in conjunction with kernel-learning based principle component analysis is employed to solve the corresponding many-objective problem with multiple probabilistic constraints and discrete design variables. The optimization results of CAARC benchmark indicate that we simplify risk-based PBWE of tall buildings from a complex multi-objective decision making process into a relatively easy multi-attribute decision making process. Accordingly, convincing decisions can be made based on the explicit building performance rather than the unreliable loss information. © 2014 Elsevier Ltd.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 42}
+}
+
+@ARTICLE{Khorsand201833,
+	author = {Khorsand, Mohammad and Tang, Youhong},
+	title = {Design functionally graded rotating disks under thermoelastic loads: Weight optimization},
+	year = {2018},
+	journal = {International Journal of Pressure Vessels and Piping},
+	volume = {161},
+	pages = {33 - 40},
+	doi = {10.1016/j.ijpvp.2018.02.002},
+	url = {https://www.scopus.com/pages/publications/85042197178?origin=resultslist},
+	abstract = {In this work, an advanced algorithm is employed to optimize the weight of a functionally graded hollow circular disk of varied thickness rotating at a constant angular velocity about its central axis. The disk is under thermoelastic load conditions. The material properties, encompassing elastic modulus thermal expansion coefficient, thermal conductivity, and density and thickness of the disk are assumed to be graded in the radial direction, and the Poisson's ratios are assumed to be constant. A combination of a co-evolutionary particle swarm optimization (CPSO) approach coupled with a differential quadrature (DQ) method is applied to obtain minimized stress and displacement fields through the geometry of the disk. The role of DQ is discretizing and solving the governing equations including motion and boundary conditions existing in the goal function of the CPSO method. In comparisons with other optimization results in the literature, the weight reduction results of this algorithm show much superior responses, demonstrating the effectiveness of this algorithm for optimizing constrained complex problems in engineering structures. Also, in numerical simulation, a study is performed to determine the effects of angular velocity and gradient index variations on the distribution of stress and displacement fields. © 2018 Elsevier Ltd},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 40}
+}
+
+@ARTICLE{AlBahrani2017401,
+	author = {Al Bahrani, Loau Tawfak and Patra, Jagdish Chandra},
+	title = {Orthogonal PSO algorithm for economic dispatch of thermal generating units under various power constraints in smart power grid},
+	year = {2017},
+	journal = {Applied Soft Computing Journal},
+	volume = {58},
+	pages = {401 - 426},
+	doi = {10.1016/j.asoc.2017.04.059},
+	url = {https://www.scopus.com/pages/publications/85019598848?origin=resultslist},
+	abstract = {Particle swarm optimization (PSO) algorithm has been successfully applied to solve various optimization problems in science and engineering. One such popular one is called global PSO (GPSO) algorithm. One of major drawback of GPSO algorithm is the phenomenon of “zigzagging”, that leads to premature convergence by falling into local minima. In addition, the performance of GPSO algorithm deteriorates for high-dimensional problems, especially in presence of nonlinear constraints. In this paper we propose a novel algorithm called, orthogonal PSO (OPSO) that alleviates the shortcomings of the GPSO algorithm. In OPSO algorithm, the m particles of the swarm are divided into two groups: active group and passive group. The d particles of the active group undergo an orthogonal diagonalization process and are updated in such way that their position vectors become orthogonally diagonalized. In the OPSO algorithm, the particles are updated using only one guide, thus avoiding the conflict between the two guides that occurs in the GPSO algorithm. We applied the OPSO algorithm for solving economic dispatch (ED) problem by taking three power systems under several power constraints imposed by thermal generating units (TGUs) and smart power grid (SPG), for example, ramp rate limits, and prohibited operating zones. In addition, the OPSO algorithm is also applied for ten selected shifted and rotated CEC 2015 benchmark functions. With extensive simulation studies, we have shown superior performance of OPSO algorithm over GPSO algorithm and several existing evolutional computation techniques in terms of several performance measures, e.g., minimum cost, convergence rate, consistency, and stability. In addition, using unpaired t-Test, we have shown the statistical significance of the OPSO algorithm against several contending algorithms including top-ranked CEC 2015 algorithms. © 2017 Elsevier B.V.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 40}
+}
+
+@ARTICLE{Alkayem2022,
+	author = {Alkayem, Nizar Faisal and Cao, Maosen and Shen, Lei and Fu, Ronghua and Šumarac, Dragoslav},
+	title = {The combined social engineering particle swarm optimization for real-world engineering problems: A case study of model-based structural health monitoring},
+	year = {2022},
+	journal = {Applied Soft Computing},
+	volume = {123},
+	pages = {},
+	doi = {10.1016/j.asoc.2022.108919},
+	url = {https://www.scopus.com/pages/publications/85130378745?origin=resultslist},
+	abstract = {Structural health monitoring (SHM) is a substantial research direction in structural engineering being scrutinized in recent years due to its significance in ensuring structural safety and reliability. The SHM using evolutionary computation has gained wide significance thanks to its computational capability and robust performance. By bearing in mind the necessity of efficient search mechanisms, a new algorithm merging the recent social engineering optimizer (SEO) and the particle swarm algorithm (PSO) is proposed in this work. The new algorithm, called the social engineering particle swarm optimization algorithm (SEPSO), combines the PSO population-based elitist-solution mechanism and the SEO two-solution attacker–defender paradigm to establish an effective global–local algorithm for solving complex engineering optimization problems. The SEPSO is developed, benchmarked, and compared with some state-of-the art algorithms using available test functions in the literature. Furthermore, the SEPSO is applied on selected mechanical design problems from the CEC2020 real-world constraint optimization competition in addition to comparison with the best-performed algorithms for benchmarking purpose. The SEPSO algorithm exhibits outstanding results when solving the benchmark functions and the real-world constraint optimization problems. Moreover, aiming to solve the complex problem of the SHM inverse problem, the SEPSO is employed. The SHM framework is presented and applied on the American Society of Civil Engineering (ASCE) frame structure based on an efficient fusion of objective function formulation. Several damage cases are tested using partial and noise-contaminated data. The proposed approach shows notable detectability and severity evaluation regardless the modal data malfunctions. Meanwhile, the proposed SEPSO can serve as an effective global–local search algorithm for solving real-world engineering problems. © 2022 Elsevier B.V.},
+	type = {Article},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 40}
+}
